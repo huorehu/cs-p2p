@@ -1,0 +1,16 @@
+resources/airplane.png 1
+resources/business.png 5
+resources/four.jpg 4
+resources/freestyle_with_text.jpg 5
+resources/man.jpg 1
+resources/music.jpg 3
+resources/silhouettes3.png 3
+resources/silhouettes16.jpg 16
+resources/super.jpg 3
+resources/three.jpg 3
+resources/white_on_black.jpg 4
+resources/with_garbage.jpg 5
+resources/stuck_together5.jpg 5
+resources/with_child2x2_stuck.jpg 4
+resources/stuck5_color.png 5
+resources/career_stuck7.png 7
